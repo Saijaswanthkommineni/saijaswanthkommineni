@@ -202,11 +202,18 @@ A learning-focused LeetCode mentoring application that provides progressive hint
 # 📊 Coding Profiles
 
 <p align="center">
-  <a href="YOUR_LEETCODE_URL">
-    <img src="https://img.shields.io/badge/LeetCode-Guardian-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  <a href="https://leetcode.com/u/YOUR_LEETCODE_USERNAME/" target="_blank">
+    <img
+      src="https://img.shields.io/badge/LeetCode-Guardian-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"
+      alt="[LeetCode Profile](https://leetcode.com/u/r9EZ1K6sAB/)"
+    />
   </a>
-  <a href="YOUR_CODECHEF_URL">
-    <img src="https://img.shields.io/badge/CodeChef-5_Star-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+
+  <a href="https://www.codechef.com/users/YOUR_CODECHEF_USERNAME" target="_blank">
+    <img
+      src="https://img.shields.io/badge/CodeChef-5_Star-5B4638?style=for-the-badge&logo=codechef&logoColor=white"
+      alt="[CodeChef Profile](https://www.codechef.com/users/saijaswanthk)"
+    />
   </a>
 </p>
 
